@@ -1,3 +1,4 @@
+Non fonctionnel
 /*******
  * Read input from STDIN
  * Use: printf(...) or fprintf( stdout, ...) to output your result to stdout.
